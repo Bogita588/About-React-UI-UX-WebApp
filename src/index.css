@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&family=Signika:wght@500&display=swap');
+
 :root {
 
-  font-family: ;
+  
+  font-family: 'Signika', sans-serif; ;
 
   --gradient-text: linear-gradient(100.00deg, )
   --gradient-bar: linear-gradient();
