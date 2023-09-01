@@ -1,0 +1,55 @@
+.gpt3__whatgpt3 {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+    background: lightseagreen;
+
+    
+  /* ff 3.6+ */
+  background: -moz-linear-gradient(90deg, rgba(8, 10, 70, 0.91) 100%, rgba(238, 130, 238, 1) 100%); 
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(90deg, rgba(8, 10, 70, 0.91) 100%, rgba(238, 130, 238, 1) 100%);
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(90deg, rgba(8, 10, 70, 0.91) 100%, rgba(238, 130, 238, 1) 100%);
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee82ee', endColorstr='#080A46', GradientType=0 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(90deg, rgba(8, 10, 70, 0.91) 100%, rgba(238, 130, 238, 1) 100%);
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(90deg, rgba(8, 10, 70, 0.91) 100%, rgba(238, 130, 238, 1) 100%);
+}
+
+.gpt3__whatgpt3-feature{
+    display: flex;
+}
+
+.gpt3__whatgpt3-feature .gpt3__features-container__feature{
+    margin: 0;
+
+
+}
+.gpt3__whatgpt3-feature .gpt3__features-container__feature-text{
+    max-width: 700px;
+
+
+}
+.gpt3__whatgpt3-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 4rem 0 2rem;
+}
+.gpt3__whatgpt3-heading h1 {
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 800;
+    max-width: 510px;
+}
