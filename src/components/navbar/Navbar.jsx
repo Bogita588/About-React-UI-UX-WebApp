@@ -7,7 +7,7 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
  const Menu = () => (
   <>
   <p><a href='#Home'>Home</a></p>
-          <p><a href='#wgpt3'>What is GPT?</a></p>
+          <p><a href='#wgpt3'>What is React</a></p>
           <p><a href='#possibility'>Open AI</a></p>
           <p><a href='#features'>Case Studies</a></p>
           <p><a href='#blog'>Library</a></p>

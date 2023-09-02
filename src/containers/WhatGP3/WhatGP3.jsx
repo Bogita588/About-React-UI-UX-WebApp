@@ -5,7 +5,7 @@ import './whatGPT3.css'
 const WhatGP3 = () => {
   return (
 
-    <div className="gpt3__whatgpt3 section__margin" id="whpt3">
+    <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
       <div className="gpt3__whatgpt3-feature">
         <Feature title="What is React ?" text="React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text, and images. "/>
       

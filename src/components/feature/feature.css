@@ -21,7 +21,7 @@
 
 .gpt3__features-container__feature-title h1 {
     color: var(--color-subtext);
-    font-size: 50px;
+    font-size: 18px;
     line-height: 24px;
     font-weight: 800;
     letter-spacing: -0.04em;
@@ -51,7 +51,10 @@
     line-height: 24px;
     
 }
-@media screen and (max-width: 5550px) {
+h1{
+    
+}
+@media screen and (max-width: 550px) {
     .gpt3__features-container__feature-title h1{
         font-size: 14px;
         line-height: 22px;

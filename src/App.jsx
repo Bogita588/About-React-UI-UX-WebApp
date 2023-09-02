@@ -1,8 +1,8 @@
 
 
 import React from 'react';
-import { Navbar, Brand, Feature, Cta} from './components';
-import {Footer, Blog, Possibility,  WhatGP3, Header } from './containers'
+import { Navbar, Brand, Cta} from './components';
+import {Footer, Blog, Possibility, Features,  WhatGP3, Header } from './containers'
 
  const App = () => {
   return (
@@ -13,7 +13,7 @@ import {Footer, Blog, Possibility,  WhatGP3, Header } from './containers'
       </div>
       <Brand />
       <WhatGP3 />
-      <Feature />
+      <Features />
       <Possibility />
       <Cta />
       <Blog />
