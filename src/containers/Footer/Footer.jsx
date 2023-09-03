@@ -6,11 +6,11 @@ const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h1>Would you like to join the React Community</h1>
+        <h1>Would you like to join the React Community?</h1>
 
       </div>
       <div className="gpt3__footer-btn">
-        <p>Request Early Access</p>
+        <p><a href="https://react.dev/community" target="blank">Join the Community</a></p>
       </div>
       <div className="gpt3__footer-links">
         <div className="gpt3__footer-links_logo">
